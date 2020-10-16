@@ -1,0 +1,8 @@
+{
+    "name":"Budget-Tracker",
+    "start_url": "/",
+    "author": "Carson Keller",
+    "version": "1.0",
+    "display":"standalone"
+    
+}
